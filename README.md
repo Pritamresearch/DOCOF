@@ -63,7 +63,7 @@ The overall pipeline consists of three stages:
 ## Prediction Example
 
 <p align="center">
-  <img src="assets/demo.gif" width="90%">
+  <img src="[assets/demo.gif](https://github.com/Pritamresearch/DOCOF/blob/main/output_docof.mp4)" width="90%">
 </p>
 
 The model predicts future BEV occupancy maps across multiple horizons (t+1, t+2, t+3, t+4).
