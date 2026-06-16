@@ -171,7 +171,7 @@ If you find this work useful in your research, please consider citing:
 @article{chakraborty2026docof,
   title={DOCOF: Decomposed Object-Centric Occupancy Forecasting for Stable Long-Horizon BEV Prediction},
   author={Chakraborty, Pritam and others},
-  journal={ECCV},
+  journal={},
   year={2026}
 }
 ```
