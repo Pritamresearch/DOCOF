@@ -496,7 +496,7 @@ If you find DOCOF useful in your research or application, please cite our paper:
 @article{chakraborty2026docof,
   title     = {Decomposed Object-Centric Occupancy Forecasting with Bounded Kinematic Integration for Stable Long-Horizon BEV Prediction},
   author    = {Chakraborty, Pritam and Bandyopadhyay, Anjan and Bhattacharyya, Siddhartha and Platos, Jan and Snasel, Vaclav},
-  journal   = {IEEE Transactions on Intelligent Vehicles},
+  journal   = {},
   year      = {2026},
   note      = {Under review / Preprint}
 }
