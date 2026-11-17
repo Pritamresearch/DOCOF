@@ -13,7 +13,6 @@
 > **Official Implementation** of the paper:  
 > **"Decomposed Object-Centric Occupancy Forecasting with Bounded Kinematic Integration for Stable Long-Horizon BEV Prediction"**  
 > *Pritam Chakraborty, Anjan Bandyopadhyay, Siddhartha Bhattacharyya, Jan Platos, and Vaclav Snasel*  
-> Published in IEEE / Preprint Available | [PDF](docs/DOCOF_paper.pdf) | [Supplementary](docs/DOCOF_supplementary.pdf)
 
 ---
 
